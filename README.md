@@ -1,3 +1,3 @@
 # RW_LittleFS
 Блок для работы с флэш памятью esp8266(32).  Предназначен для использования в визуальной среде разработки Flprog 
-![promo](/docs/flash.jpg)
+![promo](/docs/flash.png)
